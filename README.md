@@ -1,2 +1,3 @@
-# planer
-Personal plan(n)er for everyday life.
+# Aktivitätsplaner Web
+
+React + Tailwind Projektgrundgerüst

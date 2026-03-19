@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-330.187,-132.686)">
+        <g transform="matrix(0.929263,0,0,0.852464,254.061,61.2806)">
+            <rect x="81.921" y="83.763" width="86.09" height="93.846" style="fill:none;"/>
+        </g>
+        <g transform="matrix(0.0642455,0,0,0.0642455,371.356,172.686)">
+            <g transform="matrix(1,0,0,1,-528.9,-77.3)">
+                <g transform="matrix(2,0,0,2,0,0)">
+                    <g>
+                        <rect x="0" y="0" width="137.4" height="77.3" style="fill:rgb(3,54,238);"/>
+                        <path d="M74.7,37.1C80.6,37.1 83.5,35.2 83.5,31.3C83.5,27.4 80.6,25.6 74.7,25.6L48.8,25.6L48.8,37.1L74.7,37.1ZM39.2,17.8L75.9,17.8C87.1,17.8 93.3,22.8 93.3,31.2C93.3,38.4 88.6,43.2 80.7,44.4L98.7,59.5L84.8,59.5L67.9,44.9L48.8,44.9L48.8,59.5L39.2,59.5L39.2,17.8Z" style="fill:white;"/>
+                    </g>
+                    <g>
+                        <rect x="302.3" y="0" width="137.4" height="77.3" style="fill:rgb(150,36,187);"/>
+                        <path d="M345.1,17.8L354.7,17.8L354.7,51.3L397.1,51.3L397.1,59.5L345.1,59.5L345.1,17.8Z" style="fill:white;"/>
+                    </g>
+                    <g>
+                        <rect x="151.2" y="0" width="137.3" height="77.3" style="fill:rgb(3,170,237);"/>
+                        <path d="M215.1,26L190.9,26L190.9,17.8L248.8,17.8L248.8,26L224.6,26L224.6,59.5L215.1,59.5L215.1,26Z" style="fill:white;"/>
+                    </g>
+                </g>
+                <g transform="matrix(2,0,0,2,0,0)">
+                    <path d="M528.9,33.6L528.9,43.1L506.6,43.1L506.6,60.8L495.9,60.8L495.9,43.1L473.6,43.1L473.6,33.6L495.9,33.6L495.9,16.4L506.6,16.4L506.6,33.6L528.9,33.6Z" style="fill-rule:nonzero;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

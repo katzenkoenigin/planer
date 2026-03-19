@@ -1,0 +1,22 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+
+html { overflow-y: scroll; }
+
+.settings-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: grid;
+  place-items: center;
+  background: rgba(0,0,0,.40);
+}
+
+/* Box im Overlay */
+.settings-box {
+  width: min(92vw, 640px);
+  max-height: 85vh;
+  overflow: auto;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 20px 45px rgba(0,0,0,.25);
+}
